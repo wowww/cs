@@ -79,6 +79,7 @@ CE는 하드웨어에 더 치중
 
    </div>
   </details>
+  
 ---
 
 ## comment
@@ -92,4 +93,5 @@ CE는 하드웨어에 더 치중
 # 참고
 1. [위키백과 - 컴퓨터 과학](https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99)
 2. [컴퓨터 사이언스(CS)와 컴퓨터 엔지니어링(CE)는 어떻게 다른가?](https://m.blog.naver.com/PostView.nhn?blogId=josephlee54&logNo=221332960200&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
-3. [컴퓨터 과학이란 무엇인가?](https://codinglove.tistory.com/517)
+3. [컴퓨터 과학이란 무엇인가?](https://codinglove.tistory.com/517)  
+4. [마크다운 - Expander control(접기/펼치기) 만들기](https://inasie.github.io/it%EC%9D%BC%EB%B0%98/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-expander-control/)  
